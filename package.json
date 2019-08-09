@@ -1,5 +1,5 @@
 {
-  "name": "modify-large-csv",
+  "name": "edit-large-csv",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Isao Yoshikoshi <latica.jp@gmail.com>",
